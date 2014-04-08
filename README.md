@@ -6,7 +6,7 @@ minor styling adjustments, the theme removes the header and moves the search
 field has been moved to the top-right. Chat and custom labels are also supported
 and styled appropriately (hidden for privacy reasons on the screenshot).
 
-![gmail-dark-theme](https://raw.github.com/beloglazov/gmail-dark-theme/master/gmail-dark-theme.png)
+![gmail-dark-theme](https://raw.github.com/beloglazov/gmail-dark-theme/master/gmail-dark-theme-screenshot.png)
 
 
 ## Installation
