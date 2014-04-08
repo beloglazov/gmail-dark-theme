@@ -11,7 +11,9 @@ and styled appropriately (hidden for privacy reasons on the screenshot).
 
 ## Installation
 
-The easiest way to install the theme is to first install the [Stylebot
+First of all, it is necessary to enable Gmail's default Dark theme, as this
+theme is based on it. Then, the easiest way to install the theme is to install
+the [Stylebot
 extension](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
 for Chrome, and then install the theme from Stylebot's website:
 http://stylebot.me/styles/1907
